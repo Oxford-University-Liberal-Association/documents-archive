@@ -1,6 +1,6 @@
 # Oxford University Liberal Association (OULA) Document Archive
 
-Welcome to the official document archive of the Oxford University Liberal Association. This repository contains public documents related to OULA's activities and operations which includes: Governing Documents, Term Cards, Magazines and mores.
+Welcome to the official document archive of the Oxford University Liberal Association. This repository contains public documents related to OULA's activities and operations which includes: Governing Documents, Term Cards, Magazines and more.
 
 For more information about the Oxford University Liberal Association, please visit our [official website](https://www.oxuniliberals.com).
 
