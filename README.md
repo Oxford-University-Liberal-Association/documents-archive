@@ -1,4 +1,4 @@
-# Oxford Students Liberal Association (OSLA) Document Archive
+# Oxford Students Liberal Association (OSLA) Documents and Archive
 
 Welcome to the official document archive of the Oxford Students Liberal Association. This repository contains public documents related to OSLA's activities and operations which includes: Governing Documents, Term Cards, Magazines and more.
 
